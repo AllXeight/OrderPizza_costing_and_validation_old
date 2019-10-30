@@ -1,0 +1,11 @@
+﻿.text-small {
+    font-size: 14px;
+    color: rgba(223, 29, 91, 0.66);
+}
+.notice-sidebar {
+    background: linear-gradient(#1f52c4, #19989e, #d1eae3);
+    border: 2px solid #467813;
+    border-radius: 5px;
+    color: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
